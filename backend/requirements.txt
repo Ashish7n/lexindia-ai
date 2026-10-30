@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+pymupdf
+indictrans2
+sentencepiece
+torch
+groq
+python-dotenv
+pymupdf

@@ -1,0 +1,35 @@
+{
+    "name": "LexIndia-AI — BNS Legal Reference",
+    "short_name": "LexIndia-AI",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#14253F",
+    "theme_color": "#14253F",
+    "description": "LexIndia-AI: Reference application for browsing and reading Bharatiya Nyaya Sanhita (BNS) provisions in English and Telugu.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
